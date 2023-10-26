@@ -1,7 +1,7 @@
 {
   "name": "red-leopard",
   "version": "1.0.0",
-  "author": "",
+  "author": "codesandbox test",
   "copyright": "",
   "scripts": {
     "dev": "zuplo dev",
